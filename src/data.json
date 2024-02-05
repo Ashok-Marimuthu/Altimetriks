@@ -1,0 +1,156 @@
+{
+    "services": {
+        "description": "Altimetrik is a data and digital engineering services company focused on delivering business outcomes with an agile, product-oriented approach. Our digital business methodology provides a blueprint to develop, scale, and launch new products to market faster. Our team of 5,500+ practitioners with software, data, cloud engineering skills help create a culture of innovation and agility that optimizes team performance, modernizes technology, and builds new business models. As a strategic partner and catalyst, Altimetrik quickly delivers results without disruption to the business.",
+        "capabilities": [
+            "DevOps",
+            "Product Engineering",
+            "Platform Engineering",
+            "Data Engineering",
+            "Cloud",
+            "Advanced Analytics",
+            "Talent Assessment",
+            "Talent Transformation",
+            "DevSecOps",
+            "Digital Lending Platform",
+            "Digital Business",
+            "Information Engineering",
+            "Cybersecurity",
+            "Site Reliability",
+            "Cloud Engineering",
+            "Digital Transformation",
+            "Data and Analytics"
+        ]
+    },
+    "about": {
+        "orgURL": "https://www.altimetrik.com/storage/2023/07/Altimetrik-logo_4.png"
+    },
+    "listData": [
+        {
+            "id": "maruti",
+            "name": "Maruti Suzuki",
+            "imgURL": "https://img.freepik.com/free-photo/blue-wall-background_53876-88663.jpg"
+        },
+        {
+            "id": "hyundai",
+            "name": "Hyundai",
+            "imgURL": "https://img.freepik.com/free-photo/blue-wall-background_53876-88663.jpg"
+        },
+        {
+            "id": "renault",
+            "name": "Renault",
+            "imgURL": "https://img.freepik.com/free-photo/blue-wall-background_53876-88663.jpg"
+        },
+        {
+            "id": "honda",
+            "name": "Honda Cars",
+            "imgURL": "https://img.freepik.com/free-photo/blue-wall-background_53876-88663.jpg"
+        },
+        {
+            "id": "tata",
+            "name": "Tata Motors",
+            "imgURL": "https://img.freepik.com/free-photo/blue-wall-background_53876-88663.jpg"
+        },
+        {
+            "id": "ford",
+            "name": "Ford",
+            "imgURL": "https://img.freepik.com/free-photo/blue-wall-background_53876-88663.jpg"
+        },
+        {
+            "id": "volkswagen",
+            "name": "Volkswagen",
+            "imgURL": "https://img.freepik.com/free-photo/blue-wall-background_53876-88663.jpg"
+        },
+        {
+            "id": "mahindra",
+            "name": "Mahindra",
+            "imgURL": "https://img.freepik.com/free-photo/blue-wall-background_53876-88663.jpg"
+        },
+        {
+            "id": "toyota",
+            "name": "Toyota",
+            "imgURL": "https://img.freepik.com/free-photo/blue-wall-background_53876-88663.jpg"
+        },
+        {
+            "id": "bmw",
+            "name": "BMW",
+            "imgURL": "https://img.freepik.com/free-photo/blue-wall-background_53876-88663.jpg"
+        },
+        {
+            "id": "benz",
+            "name": "Mercedes-Benz",
+            "imgURL": "https://img.freepik.com/free-photo/blue-wall-background_53876-88663.jpg"
+        }
+    ],
+    "formData": [
+        {
+            "name": "Modal",
+            "type": "text",
+            "id": "modal",
+            "maxlength": 15,
+            "is_mandatory": "Y"
+        },
+        {
+            "name": "Color",
+            "type": "text",
+            "id": "color",
+            "maxlength": 15,
+            "is_mandatory": "Y"
+        },
+        {
+            "name": "Year of Manufacture",
+            "type": "text",
+            "id": "yearOfManufacture",
+            "maxlength": 15,
+            "is_mandatory": "Y"
+        },
+        {
+            "name": "Insurance Valid Upto",
+            "type": "text",
+            "id": "insuranceValidUpto",
+            "maxlength": 15,
+            "is_mandatory": "Y"
+        },
+        {
+            "name": "Kilometers",
+            "type": "number",
+            "id": "kms",
+            "maxlength": 15,
+            "is_mandatory": "Y"
+        },
+        {
+            "name": "Locations",
+            "type": "text",
+            "id": "locations",
+            "maxlength": 15,
+            "is_mandatory": "Y"
+        },
+        {
+            "name": "Number of Owners",
+            "type": "number",
+            "id": "numberOfOwners",
+            "maxlength": 15,
+            "is_mandatory": "Y"
+        },
+        {
+            "name": "Transmission",
+            "type": "text",
+            "id": "transmission",
+            "maxlength": 15,
+            "is_mandatory": "Y"
+        },
+        {
+            "name": "External Fitments",
+            "type": "text",
+            "id": "externalFitments",
+            "maxlength": 15,
+            "is_mandatory": "Y"
+        },
+        {
+            "name": "Photo",
+            "type": "file",
+            "id": "photo",
+            "maxlength": 15,
+            "is_mandatory": "Y"
+        }
+    ]
+}

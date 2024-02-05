@@ -1,0 +1,13 @@
+const Routes = {
+    LOADING: 'LOADING',
+    HOME_SCREEN: 'HOME',
+    VIEW_DETAILS: 'VIEW CARS',
+    CONTACT: 'CONTACT',
+    SERVICES: 'SERVICES',
+    GALLERY: 'GALLERY',
+    BOTTOM_STACK: 'BOTTOM_STACK',
+    DRAWER_STACK: 'DRAWER_STACK',
+    MAIN_STACK: 'MAIN_STACK'
+};
+  
+export default Routes;  
